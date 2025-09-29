@@ -5,4 +5,4 @@ Following are the things which I have done in this weeks tesk:
 4. Checked for errors like wrong api, wrong name, and netwrok error.
 5. Used ("comma") to seperate the city names whe entering more than 1.
 6. Displayed data in terminal also.
-7. 
+   
