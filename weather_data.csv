@@ -1,0 +1,11 @@
+City,Country,Temperature (°C),Weather,Humidity (%),Wind Speed (m/s)
+Karachi,PK,32.02,overcast clouds,54,4.38
+London,GB,17.81,overcast clouds,52,1.46
+New York,US,20.83,overcast clouds,58,3.92
+Tokyo,JP,24.62,overcast clouds,60,5.92
+Paris,FR,19.76,few clouds,55,1.73
+Sydney,AU,16.63,scattered clouds,87,1.87
+Mumbai,IN,27.52,overcast clouds,71,7.54
+Cape Town,ZA,19.2,clear sky,59,6.78
+Toronto,CA,17.36,clear sky,51,0.54
+Rio de Janeiro,BR,26.51,overcast clouds,50,2.12

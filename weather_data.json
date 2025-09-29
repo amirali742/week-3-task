@@ -1,0 +1,82 @@
+[
+    {
+        "City": "Karachi",
+        "Country": "PK",
+        "Temperature (\u00b0C)": 32.02,
+        "Weather": "overcast clouds",
+        "Humidity (%)": 54,
+        "Wind Speed (m/s)": 4.38
+    },
+    {
+        "City": "London",
+        "Country": "GB",
+        "Temperature (\u00b0C)": 17.81,
+        "Weather": "overcast clouds",
+        "Humidity (%)": 52,
+        "Wind Speed (m/s)": 1.46
+    },
+    {
+        "City": "New York",
+        "Country": "US",
+        "Temperature (\u00b0C)": 20.83,
+        "Weather": "overcast clouds",
+        "Humidity (%)": 58,
+        "Wind Speed (m/s)": 3.92
+    },
+    {
+        "City": "Tokyo",
+        "Country": "JP",
+        "Temperature (\u00b0C)": 24.62,
+        "Weather": "overcast clouds",
+        "Humidity (%)": 60,
+        "Wind Speed (m/s)": 5.92
+    },
+    {
+        "City": "Paris",
+        "Country": "FR",
+        "Temperature (\u00b0C)": 19.76,
+        "Weather": "few clouds",
+        "Humidity (%)": 55,
+        "Wind Speed (m/s)": 1.73
+    },
+    {
+        "City": "Sydney",
+        "Country": "AU",
+        "Temperature (\u00b0C)": 16.63,
+        "Weather": "scattered clouds",
+        "Humidity (%)": 87,
+        "Wind Speed (m/s)": 1.87
+    },
+    {
+        "City": "Mumbai",
+        "Country": "IN",
+        "Temperature (\u00b0C)": 27.52,
+        "Weather": "overcast clouds",
+        "Humidity (%)": 71,
+        "Wind Speed (m/s)": 7.54
+    },
+    {
+        "City": "Cape Town",
+        "Country": "ZA",
+        "Temperature (\u00b0C)": 19.2,
+        "Weather": "clear sky",
+        "Humidity (%)": 59,
+        "Wind Speed (m/s)": 6.78
+    },
+    {
+        "City": "Toronto",
+        "Country": "CA",
+        "Temperature (\u00b0C)": 17.36,
+        "Weather": "clear sky",
+        "Humidity (%)": 51,
+        "Wind Speed (m/s)": 0.54
+    },
+    {
+        "City": "Rio de Janeiro",
+        "Country": "BR",
+        "Temperature (\u00b0C)": 26.51,
+        "Weather": "overcast clouds",
+        "Humidity (%)": 50,
+        "Wind Speed (m/s)": 2.12
+    }
+]
